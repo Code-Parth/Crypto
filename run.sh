@@ -1,6 +1,6 @@
 sudo -i
 apt-get update
-apt install git cmake build-essential libuv1-dev libssl-dev libtool automake autoconf
+apt install cmake build-essential libuv1-dev libssl-dev libtool automake autoconf
 apt-get update
 git clone https://github.com/open-mpi/hwloc.git
 cd hwloc
