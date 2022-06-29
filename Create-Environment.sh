@@ -16,4 +16,3 @@ cmake ..
 make
 cd ../..
 clear
-sh ./start-mining.sh
